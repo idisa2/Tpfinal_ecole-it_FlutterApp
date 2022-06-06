@@ -1,6 +1,13 @@
-# projetfinal
+# ECOLE-IT - Ecole Supérieure des Technologies de l'Information, TP final dev Application Android
 
-A new Flutter project.
+# Membre du groupe
+  - Nelly Kristelle NANTCHOUANG GUEPNANG 
+  - Idrissa SALL
+
+# Little description
+   This is a small android app for selling wedding dress.
+   We used flutter to create our app, 
+   VsCode as a local editor and an android studio emulator for testing
 
 ## Getting Started
 
